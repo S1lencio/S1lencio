@@ -35,3 +35,19 @@
   <a href="https://www.jetbrains.com/webstorm/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/webstorm/webstorm-original.svg" alt="pycharm" width="40" height="40"/></a> 
   <a href="https://www.jetbrains.com/datagrip/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/datagrip/datagrip-original.svg" alt="pycharm" width="40" height="40"/></a> 
 </p>
+
+<br/>
+
+<h3 align="left">Statistiken</h3>
+
+###
+
+<div align="center">
+  <img src="https://private-vercel-api.vercel.app/api/index?username=s1lencio&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=true&order=1" height="250" alt="stats graph" /> <br>
+</div>
+<div align="center">
+<img src="https://private-vercel-api.vercel.app/api/top-langs/?username=s1lencio&layout=donut&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=true&order=1" height="250" alt="stats graph" /> <br>
+
+<img src="https://streak-stats.demolab.com?user=s1lencio&layout=donut&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=true&order=1" alt="GitHub Streak" />
+
+</div>
