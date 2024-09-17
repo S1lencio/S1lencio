@@ -45,5 +45,4 @@
 <div align="center">
   <img src="https://private-vercel-api.vercel.app/api/index?username=s1lencio&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=true&order=1" height="250" alt="stats graph" />
   <img src="https://private-vercel-api.vercel.app/api/top-langs/?username=s1lencio&layout=donut&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=true&order=1" height="250" alt="stats graph" />
-  <img src="https://streak-stats.demolab.com?user=s1lencio&theme=github-dark&hide_border=true&date_format=j%20M%5B%20Y%5D&card_width=200&card_height=250&hide_current_streak=true&hide_longest_streak=true" alt="GitHub Streak" />
 </div>
